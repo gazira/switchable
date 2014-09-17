@@ -5,7 +5,7 @@
 //  - https://github.com/kissyteam/kissy/tree/6707ecc4cdfddd59e21698c8eb4a50b65dbe7632/src/switchable
 
 var $ = require('jquery');
-var Widget = require('arale-widget');
+var Widget = require('widget');
 
 var Effects = require('./plugins/effects');
 var Autoplay = require('./plugins/autoplay');

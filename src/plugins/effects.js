@@ -1,6 +1,6 @@
 var $ = require('jquery');
 
-require('arale-easing');
+require('easing');
 
 var SCROLLX = 'scrollx';
 var SCROLLY = 'scrolly';
