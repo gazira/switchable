@@ -1,0 +1,10 @@
+{
+    "name": "arale-switchable",
+    "version": "1.1.0",
+    "main": "switchable.js",
+    "dependencies": {
+        "component/jquery": "1.0.0",
+        "gazira/widget": "master",
+        "gazira/easing": "master"
+    }
+}
